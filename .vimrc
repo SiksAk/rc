@@ -10,7 +10,3 @@ set backspace=indent,eol,start
 set nowritebackup
 set nobackup
 set noswapfile
-
-call plug#begin()
-Plug 'fatih/vim-go'
-call plug#end()
